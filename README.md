@@ -36,5 +36,5 @@
 ---
 # Submission Required
 - GitHub Repository Link: [Click Me](https://github.com/Abhishek-Sharma-007/Geekster_Assignment_3-Form)
-- README.md File LInk: [Click Here]()
+- README.md File LInk: [Click Here](https://github.com/Abhishek-Sharma-007/Geekster_Assignment_3-Form/blob/master/README.md)
 - Hosted Link: [Tap On](https://abhishek-sharma-007.github.io/Geekster_Assignment_3-Form/)
