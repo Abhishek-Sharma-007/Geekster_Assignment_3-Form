@@ -24,7 +24,9 @@
 ---
 # CODE:
 
-![image](https://github.com/Abhishek-Sharma-007/Geekster_Assignment_3-Form/assets/84591804/4c9d20db-5f90-485f-8b58-845c8c3b8e9c)
+![image](https://github.com/Abhishek-Sharma-007/Geekster_Assignment_3-Form/assets/84591804/15efc858-6ed1-4022-baf7-4a7d276023dc)
+
+![image](https://github.com/Abhishek-Sharma-007/Geekster_Assignment_3-Form/assets/84591804/cb362f0c-084c-4c7c-ba01-16006d3c5136)
 
 ![image](https://github.com/Abhishek-Sharma-007/Geekster_Assignment_3-Form/assets/84591804/b0fd4a6c-4a53-4eac-aecb-5bc78ddea26e)
 
